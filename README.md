@@ -18,7 +18,13 @@
 
 
 ## 🚀 Projects
-- [Project 1](https://github.com/Mosalah11-red/project1) - Description of project 1
+- [Project 1](https://github.com/Mosalah11-red/project1) - A comprehensive chat application designed with a dual focus on user-friendly client functionality and robust administrative backend capabilities.
+Key Features:
+User & Account Management: Add, disable, or delete accounts with ease.
+Contact Management: Connect with friends, manage contact lists, block or delete contacts.
+Conversations: Individual or group chats with text, images, videos, and files sharing.
+Settings: Customizable settings, file management, and system updates.
+Administration Tools: Group management, version control, and system configuration options.
 - [Project 2](https://github.com/Mosalah11-red/project2) - Description of project 2
 
 <!-- Add more sections as needed -->
