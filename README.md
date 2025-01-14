@@ -1,14 +1,12 @@
 # Hi there, I'm Adrian 👋
 
 ## 📝 About Me
-- 🔭 I’m currently pursuing a master's degree in ECE at the University of Washington.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: adrianlfc11@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+🌱 I’m currently learning software design, with a focus on building scalable and efficient systems.
+👯 I’m looking to collaborate on innovative projects involving machine learning, web development.
+💬 Ask me about machine learning techniques, SDE internships, or my experience at UW.
+📫 How to reach me: adrianlfc11@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I’m a huge Liverpool FC fan.
 
 ## 📈 GitHub Stats
 [![Mosalah11-red's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosalah11-red&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
