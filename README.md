@@ -1,7 +1,6 @@
 # Hi there, I'm Adrian 👋
 
 ## 📝 About Me
-## 📝 About Me
 - 🌱 I’m currently learning software design, with a focus on building scalable and efficient systems.  
 - 👯 I’m looking to collaborate on innovative projects involving machine learning, web development.  
 - 💬 Ask me about machine learning techniques, SDE internships, or my experience at UW.  
@@ -14,7 +13,7 @@
 [![Mosalah11-red's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosalah11-red&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/.../)
+- [LinkedIn](https://www.linkedin.com/in/adrian-he-190013280/)
 
 
 ## 🚀 Projects
